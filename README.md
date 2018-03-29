@@ -10,3 +10,4 @@ Finally, when you're done, publish your webpage! This is super easy. Just go to 
 Here's a guide to Github Pages, in case you get stuck: https://guides.github.com/features/pages/
 
 Happy coding & designing!
+# web-pillow-shop
